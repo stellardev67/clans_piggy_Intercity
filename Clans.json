@@ -9,8 +9,7 @@
     "requirements": "Discord & a way to send videos through links like private or unlisted YouTube videos.",
     "description": "S.T.L.A focuses on organized trading and helping newer players. Members are expected to follow rules when using S.T.L.A slots and remain respectful.",
     "status": "Recruiting",
-    "color": "#4c8bf5",
-    "recruitment_enabled": true
+    "color": "#4c8bf5"
   },
 
   {
@@ -23,8 +22,7 @@
     "requirements": "Unknown",
     "description": "The Red Army also known as T.A is a military group and one of the top Piggy Intercity clans. They are powerful in both numbers and skill.",
     "status": "Open",
-    "color": "#d64f4f",
-    "recruitment_enabled": false
+    "color": "#d64f4f"
   },
 
   {
@@ -37,8 +35,7 @@
     "requirements": "Unknown",
     "description": "Not much is known except they are Five Nights at Freddy's fans.",
     "status": "Unknown",
-    "color": "#57b77b",
-    "recruitment_enabled": false
+    "color": "#57b77b"
   },
 
   {
@@ -51,7 +48,6 @@
     "requirements": "Unknown",
     "description": "A very toxic PvP group with almost no allies. Not much is known about them recently.",
     "status": "Unknown",
-    "color": "#d1a53d",
-    "recruitment_enabled": false
+    "color": "#d1a53d"
   }
 ]
