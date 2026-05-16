@@ -18,7 +18,8 @@ clans = [
             "using S.T.L.A slots and remain respectful."
         ),
         "status": "Recruiting",
-        "color": "#4c8bf5"
+        "color": "#4c8bf5",
+        "webhook": "https://discord.com/api/webhooks/1505092359119962152/mtIL3OBIgeJX2pRg7uIGP9EUHqWOknF5TvNo8A3ATow5wa5fYo7wFGQUzzrVl6doT7TQ"
     },
 
     {
@@ -38,7 +39,8 @@ clans = [
             "but in raw skill."
         ),
         "status": "Open",
-        "color": "#d64f4f"
+        "color": "#d64f4f",
+        "webhook": "https://discord.com/api/webhooks/1505092359119962152/mtIL3OBIgeJX2pRg7uIGP9EUHqWOknF5TvNo8A3ATow5wa5fYo7wFGQUzzrVl6doT7TQ"
     },
 
     {
@@ -54,9 +56,9 @@ clans = [
             "except they are Five Nights at Freddy's fans."
         ),
         "status": "Unknown",
-        "color": "#57b77b"
+        "color": "#57b77b",
+        "webhook": "https://discord.com/api/webhooks/1505092359119962152/mtIL3OBIgeJX2pRg7uIGP9EUHqWOknF5TvNo8A3ATow5wa5fYo7wFGQUzzrVl6doT7TQ"
     },
-
     {
         "name": "M3T",
         "tag": "[M3T]",
@@ -72,6 +74,7 @@ clans = [
             "seen them."
         ),
         "status": "Unknown",
-        "color": "#d1a53d"
+        "color": "#d1a53d",
+        "webhook": "https://discord.com/api/webhooks/1505092359119962152/mtIL3OBIgeJX2pRg7uIGP9EUHqWOknF5TvNo8A3ATow5wa5fYo7wFGQUzzrVl6doT7TQ"
     }
 ]
