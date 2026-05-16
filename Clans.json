@@ -1,0 +1,77 @@
+clans = [
+    {
+        "name": "S.T.L.A",
+        "tag": "[STLA]",
+        "leader": "Stellar",
+        "members": 1,
+        "allies": 1,
+        "focus": "Trading / Survival",
+        "requirements": (
+            "Discord & a way to send videos "
+            "through links like private or "
+            "unlisted YouTube videos."
+        ),
+        "description": (
+            "S.T.L.A focuses on organized trading "
+            "and helping newer players. Members "
+            "are expected to follow rules when "
+            "using S.T.L.A slots and remain respectful."
+        ),
+        "status": "Recruiting",
+        "color": "#4c8bf5"
+    },
+
+    {
+        "name": "T.A",
+        "tag": "[TA]",
+        "leader": "Vin",
+        "members": 171,
+        "allies": 25,
+        "focus": "PvP, PvE, and helping players",
+        "requirements": "Unknown.",
+        "description": (
+            "The Red Army also known as T.A or "
+            "The Assaults is mainly a military group "
+            "and one of the top Piggy Intercity clans "
+            "known today. They are kind, caring, and "
+            "overwhelmingly powerful not just in numbers "
+            "but in raw skill."
+        ),
+        "status": "Open",
+        "color": "#d64f4f"
+    },
+
+    {
+        "name": "F.N.A.F",
+        "tag": "[FNAF]",
+        "leader": "Archie",
+        "members": "Unknown",
+        "allies": "Unknown",
+        "focus": "Unknown",
+        "requirements": "Unknown.",
+        "description": (
+            "Not much is known about this group "
+            "except they are Five Nights at Freddy's fans."
+        ),
+        "status": "Unknown",
+        "color": "#57b77b"
+    },
+
+    {
+        "name": "M3T",
+        "tag": "[M3T]",
+        "leader": "Unknown",
+        "members": "Unknown",
+        "allies": "Unknown",
+        "focus": "PvP",
+        "requirements": "Unknown.",
+        "description": (
+            "A very toxic PvP group with almost "
+            "no allies. Not much is known about "
+            "them recently as barely anyone has "
+            "seen them."
+        ),
+        "status": "Unknown",
+        "color": "#d1a53d"
+    }
+]
